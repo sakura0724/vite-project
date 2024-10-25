@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "vite-project-97d06"
+  },
+  "targets": {},
+  "etags": {
+    "vite-project-97d06": {
+      "extensionInstances": {}
+    }
+  }
+}
